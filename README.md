@@ -9,3 +9,4 @@ Si conoces la palabra solo presiona la flechita verde para cambiar de palabra y 
 
 
 > Contiene archivo de palabras en Coreano, para futura actualización, pero si gustas puedes solo remplazar la ruta para probar
+> Librerias: tkinter, random, pandas
